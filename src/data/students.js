@@ -2,7 +2,7 @@ export const students = [
     {
       id: 1,
       fullName: 'John Doe',
-      image: 'https://via.placeholder.com/150',
+      image: 'c:/Users/practice/student-catalog/src/data/images/johndoe.jpg',
       group: 'A',
       year: 2,
       gpa: 3.8,
@@ -10,7 +10,7 @@ export const students = [
     {
       id: 2,
       fullName: 'Jane Smith',
-      image: 'https://via.placeholder.com/150',
+      image: 'c:/Users/practice/student-catalog/src/data/images/JaneSmith.jpg',
       group: 'B',
       year: 3,
       gpa: 3.9,
@@ -18,7 +18,7 @@ export const students = [
     {
       id: 3,
       fullName: 'Mike Johnson',
-      image: 'https://via.placeholder.com/150',
+      image: 'c:/Users/practice/student-catalog/src/data/images/MikeJohnson.jpg',
       group: 'A',
       year: 2,
       gpa: 3.5,
@@ -26,7 +26,7 @@ export const students = [
     {
         id: 4,
         fullName: 'Emily Brown',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/emilybrown.jpg',
         group: 'C',
         year: 4,
         gpa: 4.0,
@@ -34,7 +34,7 @@ export const students = [
       {
         id: 5,
         fullName: 'Chris Lee',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/chrislee.jpg',
         group: 'B',
         year: 3,
         gpa: 3.7,
@@ -42,7 +42,7 @@ export const students = [
       {
         id: 6,
         fullName: 'Sarah Wilson',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/sarahwilson.jpg',
         group: 'A',
         year: 2,
         gpa: 3.6,
@@ -50,7 +50,7 @@ export const students = [
       {
         id: 7,
         fullName: 'David Martinez',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/davidmartinez.jpg',
         group: 'C',
         year: 4,
         gpa: 3.9,
@@ -58,7 +58,7 @@ export const students = [
       {
         id: 8,
         fullName: 'Jessica Taylor',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/jessicataylor.jpg',
         group: 'B',
         year: 3,
         gpa: 3.8,
@@ -66,7 +66,7 @@ export const students = [
       {
         id: 9,
         fullName: 'Daniel Anderson',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/danielanderson.jpg',
         group: 'A',
         year: 2,
         gpa: 3.4,
@@ -74,7 +74,7 @@ export const students = [
       {
         id: 10,
         fullName: 'Ashley Thomas',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/ashleythomas.jpg',
         group: 'C',
         year: 4,
         gpa: 3.9,
@@ -82,7 +82,7 @@ export const students = [
       {
         id: 11,
         fullName: 'James Hernandez',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/jameshernandez.jpg',
         group: 'B',
         year: 3,
         gpa: 3.7,
@@ -90,7 +90,7 @@ export const students = [
       {
         id: 12,
         fullName: 'Amanda Moore',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/amandamoore.jpg',
         group: 'A',
         year: 2,
         gpa: 3.6,
@@ -98,7 +98,7 @@ export const students = [
       {
         id: 13,
         fullName: 'Michael Clark',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/michaelclark.jpg',
         group: 'C',
         year: 4,
         gpa: 3.8,
@@ -106,7 +106,7 @@ export const students = [
       {
         id: 14,
         fullName: 'Jennifer Rodriguez',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/jenniferrodriguez.jpg',
         group: 'B',
         year: 3,
         gpa: 3.9,
@@ -114,7 +114,7 @@ export const students = [
       {
         id: 15,
         fullName: 'Robert Lewis',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/robertlewis.jpg',
         group: 'A',
         year: 2,
         gpa: 3.5,
@@ -122,7 +122,7 @@ export const students = [
       {
         id: 16,
         fullName: 'Melissa Hall',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/melissahall.jpg',
         group: 'C',
         year: 4,
         gpa: 4.0,
@@ -130,7 +130,7 @@ export const students = [
       {
         id: 17,
         fullName: 'William Allen',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/williamallen.jpg',
         group: 'B',
         year: 3,
         gpa: 3.7,
@@ -138,7 +138,7 @@ export const students = [
       {
         id: 18,
         fullName: 'Stephanie Young',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/stephanieyoung.jpg',
         group: 'A',
         year: 2,
         gpa: 3.8,
@@ -146,7 +146,7 @@ export const students = [
       {
         id: 19,
         fullName: 'Joseph King',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/josephking.jpg',
         group: 'C',
         year: 4,
         gpa: 3.9,
@@ -154,7 +154,7 @@ export const students = [
       {
         id: 20,
         fullName: 'Elizabeth Wright',
-        image: 'https://via.placeholder.com/150',
+        image: 'c:/Users/practice/student-catalog/src/data/images/elizabethwright.jpg',
         group: 'B',
         year: 3,
         gpa: 3.6,
